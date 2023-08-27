@@ -1,0 +1,36 @@
+[14-Jun-2022 18:34:21 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'bprm9342@localhost'@'localhost' (using password: YES) in /home/bprm9342/public_html/login/koneksi.php:6
+Stack trace:
+#0 /home/bprm9342/public_html/login/koneksi.php(6): PDO->__construct('mysql:dbname=bp...', 'bprm9342@localh...', 'Semangat45!')
+#1 /home/bprm9342/public_html/login/proseslogin.php(3): require_once('/home/bprm9342/...')
+#2 {main}
+  thrown in /home/bprm9342/public_html/login/koneksi.php on line 6
+[14-Jun-2022 18:34:25 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'bprm9342@localhost'@'localhost' (using password: YES) in /home/bprm9342/public_html/login/koneksi.php:6
+Stack trace:
+#0 /home/bprm9342/public_html/login/koneksi.php(6): PDO->__construct('mysql:dbname=bp...', 'bprm9342@localh...', 'Semangat45!')
+#1 /home/bprm9342/public_html/login/proseslogin.php(3): require_once('/home/bprm9342/...')
+#2 {main}
+  thrown in /home/bprm9342/public_html/login/koneksi.php on line 6
+[14-Jun-2022 18:34:35 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'bprm9342@localhost'@'localhost' (using password: YES) in /home/bprm9342/public_html/login/koneksi.php:6
+Stack trace:
+#0 /home/bprm9342/public_html/login/koneksi.php(6): PDO->__construct('mysql:dbname=bp...', 'bprm9342@localh...', 'Semangat45!')
+#1 /home/bprm9342/public_html/login/loginptgs.php(3): require_once('/home/bprm9342/...')
+#2 {main}
+  thrown in /home/bprm9342/public_html/login/koneksi.php on line 6
+[14-Jun-2022 18:38:32 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'bprm9342@localhost'@'localhost' (using password: YES) in /home/bprm9342/public_html/login/koneksi.php:6
+Stack trace:
+#0 /home/bprm9342/public_html/login/koneksi.php(6): PDO->__construct('mysql:dbname=bp...', 'bprm9342@localh...', 'Semangat45!')
+#1 /home/bprm9342/public_html/login/loginptgs.php(3): require_once('/home/bprm9342/...')
+#2 {main}
+  thrown in /home/bprm9342/public_html/login/koneksi.php on line 6
+[14-Jun-2022 18:39:25 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'bprm9342_kunjungan'@'localhost' (using password: YES) in /home/bprm9342/public_html/login/koneksi.php:6
+Stack trace:
+#0 /home/bprm9342/public_html/login/koneksi.php(6): PDO->__construct('mysql:dbname=bp...', 'bprm9342_kunjun...', 'semangat45')
+#1 /home/bprm9342/public_html/login/proseslogin.php(3): require_once('/home/bprm9342/...')
+#2 {main}
+  thrown in /home/bprm9342/public_html/login/koneksi.php on line 6
+[14-Jun-2022 18:41:18 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'bprm9342_kunjungan'@'localhost' (using password: YES) in /home/bprm9342/public_html/login/koneksi.php:6
+Stack trace:
+#0 /home/bprm9342/public_html/login/koneksi.php(6): PDO->__construct('mysql:dbname=bp...', 'bprm9342_kunjun...', 'semangat45')
+#1 /home/bprm9342/public_html/login/proseslogin.php(3): require_once('/home/bprm9342/...')
+#2 {main}
+  thrown in /home/bprm9342/public_html/login/koneksi.php on line 6
